@@ -12,3 +12,7 @@ The output of the analysis should include:
 
 Graph of clustered variants.
 Positions of cluster centers.
+
+This graph shows centered clusters as final output.
+![image](https://github.com/Jovan53/tumor_heterogeinity_bioinformatics_project/assets/152201867/677a5ae0-9611-4aef-8acd-c6b1d3c04107)
+
